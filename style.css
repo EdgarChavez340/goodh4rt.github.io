@@ -171,7 +171,7 @@ body {
 	.fit {
 		width: 800px;
 		position:center; 
- 		 margin: 0 auto;
+ 		 margin: 30px auto;
 	}
 }
 
@@ -222,4 +222,28 @@ body {
 .activePage {
 	background-color: lightgray;
 	border-radius: 5px;
+}
+
+.headingStyle2 {
+	padding: 40px 0; 
+	/*margin-left: 15%;*/
+	text-align: center;
+	font-size: 40px
+}
+
+.pStyle {
+	font-size: 20px;
+	border-left: 5px solid gray;
+	padding: 0px 15px ;
+	margin-left: 5%;
+} 
+
+@media (min-width: 768px) {
+	.pStyle {
+		font-size: 30px;
+	}
+}
+
+strong {
+	background-color: lightgreen
 }

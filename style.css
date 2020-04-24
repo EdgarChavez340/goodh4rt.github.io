@@ -237,6 +237,7 @@ body {
 	border-left: 5px solid gray;
 	padding: 0px 15px ;
 	margin-left: 5%;
+	margin-bottom: 40px
 } 
 
 @media (min-width: 768px) {

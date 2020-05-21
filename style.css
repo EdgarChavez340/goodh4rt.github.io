@@ -1,3 +1,7 @@
+body {
+	background-color: black
+}
+
 .navbar {
 	background-color: black ! important;
 }
@@ -62,4 +66,17 @@
 		position:center; 
  		 margin: 30px auto;
 	}
+}
+
+.subHeading {
+	background-color: #fcc203;
+	color: black;
+	padding: 40px 0 0px 10px;
+	font-size: 70px;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	text-shadow: 2px 2px 4px darkgray;
+	border-bottom: 8px solid #fca103;
+	border-radius: 0 0 30px 30px;
+
 }

@@ -68,3 +68,13 @@ body {
 	}
 }
 
+.pContainer {
+	background-color: #1c1c1c;
+	border-radius: 0 0 30px 30px;
+	color: white;
+	font-family: 'DM Sans', sans-serif;
+	font-size: 23px;
+	border-left: 8px solid darkgray;
+	padding: 30px 15px;
+	margin: 0px 5px 40px 5px
+}
